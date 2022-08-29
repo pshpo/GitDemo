@@ -25,8 +25,11 @@ public class amazon {
 			    }
 				System.out.println(a[i]+" is repeated "+k+" times");
 				if(k==1)
-				{
+				{   
+					System.out.println("****************************************");
 					System.out.println("Unique number is :"+a[i]);
+					System.out.println("****************************************");
+
 				}
 			}
 		}
