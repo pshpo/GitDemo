@@ -31,6 +31,7 @@ public class amazon {
 					System.out.println("****************************************");
 					System.out.println("****************************************");
 					System.out.println("****************************************");
+					System.out.println("Unique found ");
 
 
 				}
